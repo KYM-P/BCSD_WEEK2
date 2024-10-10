@@ -1,6 +1,6 @@
 package com.example.bcsd_beginner_week2.ui.theme
 
-fun main () {
+fun main () { // PQ용 변경 사항
     // 과제 1
     var list1 = listOf(1, 2, 3)
     var list2 = listOf(2, 3, 4)
